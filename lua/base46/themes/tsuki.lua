@@ -55,6 +55,6 @@ M.base_16 = {
 
 M.type = "dark"
 
-M = require("base46").override_theme(M, "yoru")
+M = require("base46").override_theme(M, "tsuki")
 
 return M
